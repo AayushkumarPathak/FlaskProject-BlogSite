@@ -1,0 +1,18 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/dreamcoder",
+        "prod_uri":"mysql://root:@localhost/dreamcoder",
+        "fb_url":"https://facebook.com/dreamcoder",
+        "tw_url":"https://twitter.com/dreamcoder",
+        "gb_url":"https://github.com/dreamcoder",
+        "tag_line": "Heaven for programmer",
+        "gmail-user": "aayushkumarpathak1@gmail.com",
+        "gmail-password": "@Ranchi1"
+    }
+
+
+
+
+}
